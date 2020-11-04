@@ -28,11 +28,11 @@ Features
 
 The following features were used for this project. I have attached the links to the specific devices
 
-* RPI Zero       <https://za.rs-online.com/web/p/raspberry-pi/1812039/>
-* Relay Module   <https://za.rs-online.com/web/p/power-motor-robotics-development-tools/1845099//>
+* RPI Zero       https://za.rs-online.com/web/p/raspberry-pi/1812039/
+* Relay Module   https://za.rs-online.com/web/p/power-motor-robotics-development-tools/1845099//
 * Light Bulb     Any light bulb
-* Axial fan      <https://za.rs-online.com/web/p/axial-fans/6688808/>
-* DC motor       <https://za.rs-online.com/web/p/dc-motors/2389715/>
+* Axial fan      https://za.rs-online.com/web/p/axial-fans/6688808/
+* DC motor       https://za.rs-online.com/web/p/dc-motors/2389715/
 
 Installation
 -------------

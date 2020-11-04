@@ -25,6 +25,12 @@ The hardware used is a combination of Raspberry Pi ,a Relay Module, a light bulb
 
 Features
 --------
+.. image:: https://github.com/CassandraDacha/Automation/blob/master/Demo_image.png
+    :width: 400px
+    :align: center
+    :height: 400px
+    :alt: Circuit Diagram
+    
 The following features were used for this project. I have attached the links to the specific devices
 
 * RPI Zero       <https://za.rs-online.com/web/p/raspberry-pi/1812039/>
@@ -35,11 +41,6 @@ The following features were used for this project. I have attached the links to 
 
 
 Once you have all these devices, you can connect them using the following diagram
-.. image:: https://github.com/CassandraDacha/Automation/blob/master/Demo_image.png
-    :width: 400px
-    :align: center
-    :height: 400px
-    :alt: Circuit Diagram
     
 After completing the connections, you need to download the requirements.txt file from  the Automation folder and install the requirements using the following command.
 

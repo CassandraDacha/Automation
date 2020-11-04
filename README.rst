@@ -34,7 +34,7 @@ The following features were used for this project. I have attached the links to 
 * DC motor       <https://za.rs-online.com/web/p/dc-motors/2389715/>
 
 
-Once you have all these devices, you need to download the requirements.txt file from /Automation folder and install the requirements using the following command.
+Once you have all these devices, you need to download the requirements.txt file from  the Automation folder and install the requirements using the following command.
 
    $ pip3 install -r requirements.txt
 

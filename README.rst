@@ -24,7 +24,7 @@ The hardware used is a combination of Raspberry Pi ,a Relay Module, a light bulb
 
 Features
 --------
-    
+
 The following features were used for this project. I have attached the links to the specific devices
 
 * RPI Zero       <https://za.rs-online.com/web/p/raspberry-pi/1812039/>

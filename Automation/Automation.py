@@ -1,4 +1,3 @@
-"""Main module."""
 from flask import Flask, jsonify, request, Response, json
 import time
 import RPi.GPIO as GPIO
@@ -110,7 +109,6 @@ def update_device(identifier):
     return response
 
 # DELETE
-
 @ app.route('/devices/<int:identifier>', methods=['DELETE'])
 def delete_device(identifier):
     i = 0

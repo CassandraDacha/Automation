@@ -38,8 +38,11 @@ The following features were used for this project. I have attached the links to 
 
 
 Once you have all these devices, you can connect them using the following diagram
-.. image:: Automation/Demo_image.png
-   :width: 600
+... image:: Demo_image.jpg
+    :width: 400px
+    :align: center
+    :height: 400px
+    :alt: Circuit Diagram
 you need to download the requirements.txt file from  the Automation folder and install the requirements using the following command.
 
    $ pip3 install -r requirements.txt

@@ -33,6 +33,7 @@ def get_device_by_identifier(identifier):
     return jsonify(return_value)
 
 # POST /devices
+#Function that adds devices to the API
 @app.route('/devices', methods=['POST'])
 def add_device():
     request_data = request.get_json()
@@ -60,6 +61,7 @@ def add_device():
                             status=400, mimetype='application/json')
         return response
 # PUT
+#Function that replaces the current device given the identifier of the device 
 @app.route('/devices/<int:identifier>', methods=['PUT'])
 def replace_device(identifier):
     request_data = request.get_json()
@@ -80,7 +82,7 @@ def replace_device(identifier):
     response = Response("", status=204)
     return response
 # PATCH
-
+#Function that updates a device on the API given the device identifier
 @app.route('/devices/<int:identifier>', methods=['PATCH'])
 def update_device(identifier):
     request_data = request.get_json()
@@ -107,6 +109,7 @@ def update_device(identifier):
     return response
 
 # DELETE
+#Function that deletes a device on the API given the device identifier
 @ app.route('/devices/<int:identifier>', methods=['DELETE'])
 def delete_device(identifier):
     i = 0

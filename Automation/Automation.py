@@ -81,7 +81,6 @@ def replace_device(identifier):
     return response
 # PATCH
 
-
 @app.route('/devices/<int:identifier>', methods=['PATCH'])
 def update_device(identifier):
     request_data = request.get_json()
@@ -110,8 +109,6 @@ def update_device(identifier):
     return response
 
 # DELETE
-
-
 @ app.route('/devices/<int:identifier>', methods=['DELETE'])
 def delete_device(identifier):
     i = 0

@@ -31,7 +31,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    description="Patient ward automation system. This automation system will allow patients to be able to control the temperature, lighting, TV settings and the door of the ward they are in using a user-friendly web application on their phone. .",
     entry_points={
         'console_scripts': [
             'Automation=Automation.cli:main',

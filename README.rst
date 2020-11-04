@@ -15,7 +15,7 @@ Patient_Ward_Automation_System
 
 * Github repo: Automation
 * Free software: MIT license
-* Documentation: https://Automation.readthedocs.io.
+* Documentation: https://wardautomation.readthedocs.io.
 
 Patient ward automation system. This automation system  will allow patients to be able to control
 the temperature, lighting, TV settings and the door of the ward they are in using a user-friendly

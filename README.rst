@@ -25,11 +25,6 @@ The hardware used is a combination of Raspberry Pi ,a Relay Module, a light bulb
 
 Features
 --------
-.. image:: https://github.com/CassandraDacha/Automation/blob/master/Demo_image.png
-    :width: 400px
-    :align: center
-    :height: 400px
-    :alt: Circuit Diagram
     
 The following features were used for this project. I have attached the links to the specific devices
 
@@ -39,9 +34,16 @@ The following features were used for this project. I have attached the links to 
 * Axial fan      <https://za.rs-online.com/web/p/axial-fans/6688808/>
 * DC motor       <https://za.rs-online.com/web/p/dc-motors/2389715/>
 
+Installation
+-------------
+Read the installation process from the Documentation link above.
 
+.. image:: https://github.com/CassandraDacha/Automation/blob/master/Demo_image.png
+    :width: 400px
+    :align: center
+    :height: 400px
+    :alt: Circuit Diagram
 Once you have all these devices, you can connect them using the diagram above.
-
 After completing the connections, you need to download the requirements.txt file from  the Automation folder and install the requirements using the following command.
 
    $ pip3 install -r requirements.txt
@@ -53,7 +55,7 @@ Testing
 --------
 To test the API use the following command.
 
-   $ pip3 install -r requirements.txt
+   $ python3 Automation.py
 
 Credits
 -------

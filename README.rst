@@ -13,6 +13,11 @@ Patient_Ward_Automation_System
         :target: https://Automation.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+
+
+
+Python Boilerplate contains all the boilerplate you need to create a Python package.
+
 * Github repo: Automation
 * Free software: MIT license
 * Documentation: https://Automation.readthedocs.io.
@@ -25,14 +30,16 @@ The hardware used is a combination of Raspberry Pi ,a Relay Module, a light bulb
 
 Features
 --------
-The following features were used for this project. I have attached the links to the specific devices
 
-* RPI Zero       <https://za.rs-online.com/web/p/raspberry-pi/1812039/>
-* Relay Module   <https://za.rs-online.com/web/p/power-motor-robotics-development-tools/1845099//>
-* Light Bulb     Any light bulb
-* Axial fan      <https://za.rs-online.com/web/p/axial-fans/6688808/>
-* DC motor       <https://za.rs-online.com/web/p/dc-motors/2389715/>
-
+====== ============ =========================================================================================
+No.    Device       Link to specific device
+====== ============ ===========================
+1      RPI Zero       <https://za.rs-online.com/web/p/raspberry-pi/1812039/>
+2      Relay Module   <https://za.rs-online.com/web/p/power-motor-robotics-development-tools/1845099//>
+3      Light Bulb     Any light bulb
+4      Axial fan      <https://za.rs-online.com/web/p/axial-fans/6688808/>
+5      DC motor       <https://za.rs-online.com/web/p/dc-motors/2389715/>
+====== ============ =========================================================================================
 
 Once you have all these devices, you need to download the requirements.txt file from /Automation folder and install the requirements using the following command.
 

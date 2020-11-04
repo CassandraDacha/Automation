@@ -4,7 +4,7 @@ Patient Ward Automation_System
 
 
 .. image:: https://img.shields.io/pypi/v/Automation.svg
-        :target: https://pypi.python.org/pypi/Automation
+        :target: https://pypi.org/project/Patient-Ward-Automation/
 
 .. image:: https://img.shields.io/travis/CassandraDacha/Automation.svg
         :target: https://travis-ci.com/CassandraDacha/Automation

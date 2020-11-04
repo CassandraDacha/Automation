@@ -48,6 +48,7 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/CassandraDacha/Automation',
+    download_url = 'https://github.com/CassandraDacha/Automation/archive/v_01.tar.gz', 
     version='0.1.0',
     zip_safe=False,
 )

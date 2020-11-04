@@ -1,5 +1,5 @@
 ==============================
-Patient_Ward_Automation_System
+Patient Ward Automation_System
 ==============================
 
 
@@ -40,15 +40,13 @@ The following features were used for this project. I have attached the links to 
 * DC motor       <https://za.rs-online.com/web/p/dc-motors/2389715/>
 
 
-Once you have all these devices, you can connect them using the following diagram
-    
+Once you have all these devices, you can connect them using the diagram above.
+
 After completing the connections, you need to download the requirements.txt file from  the Automation folder and install the requirements using the following command.
 
    $ pip3 install -r requirements.txt
 
 Note that this command is dependant on the python version. The Python version used in this project was Python 3.8.5.
-
-
 
 Credits
 -------

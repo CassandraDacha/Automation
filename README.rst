@@ -9,9 +9,9 @@ Patient_Ward_Automation_System
 .. image:: https://img.shields.io/travis/CassandraDacha/Automation.svg
         :target: https://travis-ci.com/CassandraDacha/Automation
 
-.. image:: https://readthedocs.org/projects/Automation/badge/?version=latest
-        :target: https://Automation.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
+.. image:: https://readthedocs.org/projects/wardautomation/badge/?version=main
+:target: https://wardautomation.readthedocs.io/en/latest/?badge=main
+:alt: Documentation Status
 
 * Github repo: Automation
 * Free software: MIT license

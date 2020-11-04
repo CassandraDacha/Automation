@@ -38,7 +38,7 @@ The following features were used for this project. I have attached the links to 
 
 
 Once you have all these devices, you can connect them using the following diagram
-... image:: Demo_image.jpg
+.. image:: Demo_image.jpg
     :width: 400px
     :align: center
     :height: 400px

@@ -12,7 +12,10 @@ Patient_Ward_Automation_System
 .. image:: https://readthedocs.org/projects/wardautomation/badge/?version=latest
         :target: https://wardautomation.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
+.. image:: https://pyup.io/repos/github/Stelele/papi_iot/shield.svg
+     :target: https://pyup.io/repos/github/Stelele/papi_iot/
+     :alt: Updates
+     
 * Github repo: Automation
 * Free software: MIT license
 * Documentation: https://wardautomation.readthedocs.io.

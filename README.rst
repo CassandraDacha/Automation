@@ -13,7 +13,7 @@ Patient_Ward_Automation_System
         :target: https://wardautomation.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
         
-.. image:: Demo_image.jpg
+.. image:: https://github.com/CassandraDacha/Automation/blob/master/Demo_image.png
     :width: 400px
     :align: center
     :height: 400px

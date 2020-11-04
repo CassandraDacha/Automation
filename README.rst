@@ -51,8 +51,9 @@ Note that this command is dependant on the python version. The Python version us
 
 Testing
 --------
-To test the API use the following command:
-$ python3 Automation.py
+To test the API use the following command.
+
+   $ pip3 install -r requirements.txt
 
 Credits
 -------

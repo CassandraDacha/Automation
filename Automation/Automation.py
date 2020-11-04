@@ -109,7 +109,7 @@ def update_device(identifier):
     return response
 
 # DELETE
-#Function that deletes a device on the API given the device identifier
+#Function that deletes a device from the API given the device identifier
 @ app.route('/devices/<int:identifier>', methods=['DELETE'])
 def delete_device(identifier):
     i = 0

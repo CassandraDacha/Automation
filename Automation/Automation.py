@@ -87,8 +87,6 @@ def update_device(identifier):
     updated_device = {}
     if ("name" in request_data):
         updated_device["name"] = request_data["name"]
-    # if ("device_type" in request_data):
-    #     updated_device["device_type"] = request_data["device_type"]
 
     if ("state" in request_data):
         # Update the state when the switch is toggled
@@ -127,5 +125,4 @@ def delete_device(identifier):
 
 
 if __name__ == "__main__":
-    # app.run(port=5000, debug=True)
     app.run()

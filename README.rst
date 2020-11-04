@@ -48,6 +48,12 @@ After completing the connections, you need to download the requirements.txt file
 
 Note that this command is dependant on the python version. The Python version used in this project was Python 3.8.5.
 
+
+Testing
+--------
+To test the API use the following command:
+$ python3 Automation.py
+
 Credits
 -------
 

@@ -12,9 +12,12 @@ Patient_Ward_Automation_System
 .. image:: https://readthedocs.org/projects/wardautomation/badge/?version=latest
         :target: https://wardautomation.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-.. image:: 
-     :target: 
-     :alt: Updates
+        
+.. image:: Demo_image.jpg
+    :width: 400px
+    :align: center
+    :height: 400px
+    :alt: Circuit Diagram
      
 * Github repo: Automation
 * Free software: MIT license
@@ -38,11 +41,6 @@ The following features were used for this project. I have attached the links to 
 
 
 Once you have all these devices, you can connect them using the following diagram
-.. image:: Demo_image.jpg
-    :width: 400px
-    :align: center
-    :height: 400px
-    :alt: Circuit Diagram
 you need to download the requirements.txt file from  the Automation folder and install the requirements using the following command.
 
    $ pip3 install -r requirements.txt

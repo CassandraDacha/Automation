@@ -1,5 +1,5 @@
 ==============================
-Patient Ward Automation_System
+Patient Ward Automation System
 ==============================
 
 

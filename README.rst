@@ -53,12 +53,22 @@ After completing the connections, you need to download the requirements.txt file
 
 Note that this command is dependant on the python version. The Python version used in this project was Python 3.8.5.
 
+For the react web app download all the files to your computer
+In your terminal, cd into the directory you just created and install all dependencies by using the following command
+
+   $ npm install
+
+To look at the code, just open up the project in your favorite code editor!
 
 Testing
 --------
 To test the API use the following command.
 
    $ python3 Automation.py
+   
+To test the react web app use the following command.
+
+   $ npm start
 
 Credits
 -------
